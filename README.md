@@ -10,8 +10,3 @@
 - ⚡ Fun fact: Positive Spirit
 <!--
 **bee-byte/bee-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Find out more
-![Codepen Logo](https://i.postimg.cc/HxRRzCYm/Button-Fill-Black-Large.png)
-Format: ![Alt Text](https://codepen.io/brittney)
-
