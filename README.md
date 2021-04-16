@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there I'm Brittney Bowers👋
+
+I'm a UI developer || Web Designer:
 
 <!--
 **bee-byte/bee-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently specializing in UI Development and Web designing
+- 🌱 I’m currently learning Wordpress and platforms to create web designs .
+- 👯 I’m looking to grow myself and others.
+- 🤔 I’m looking for help with Adobe Photoshop and Adobe XD .
+- 📫 How to reach me: https://brittney-bowers-portfolio.netlify.app/
+- 😄 Goals : Senior Wordpress Developer & Wed Designer 
+- ⚡ Fun fact: Positive Spirit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
