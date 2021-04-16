@@ -2,9 +2,6 @@
 
 I'm a UI developer || Web Designer:
 
-<!--
-**bee-byte/bee-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently specializing in UI Development and Web designing
 - 🌱 I’m currently learning Wordpress and platforms to create web designs .
 - 👯 I’m looking to grow myself and others.
@@ -12,4 +9,8 @@ I'm a UI developer || Web Designer:
 - 📫 How to reach me: https://brittney-bowers-portfolio.netlify.app/
 - 😄 Goals : Senior Wordpress Developer & Wed Designer 
 - ⚡ Fun fact: Positive Spirit
+<!--
+**bee-byte/bee-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
