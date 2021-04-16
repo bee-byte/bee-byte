@@ -1,7 +1,6 @@
 ## Hi there I'm Brittney Bowers👋
-
-###I'm a UI developer || Web Designer:
-
+### I'm a UI developer || Web Designer:
+ 
 - 🔭 I’m currently specializing in UI Development and Web designing
 - 🌱 I’m currently learning Wordpress and platforms to create web designs .
 - 👯 I’m looking to grow myself and others.
